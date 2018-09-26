@@ -1,0 +1,20 @@
+[19-Aug-2017 06:47:03 UTC] PHP Notice:  Use of undefined constant SERVER_URL - assumed 'SERVER_URL' in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml on line 164
+[19-Aug-2017 06:47:03 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml:178
+Stack trace:
+#0 {main}
+  thrown in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml on line 178
+[19-Aug-2017 06:49:28 UTC] PHP Notice:  Use of undefined constant SERVER_URL - assumed 'SERVER_URL' in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml on line 164
+[19-Aug-2017 06:49:28 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml:178
+Stack trace:
+#0 {main}
+  thrown in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml on line 178
+[21-Aug-2017 04:13:08 UTC] PHP Notice:  Use of undefined constant SERVER_URL - assumed 'SERVER_URL' in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml on line 164
+[21-Aug-2017 04:13:08 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml:178
+Stack trace:
+#0 {main}
+  thrown in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml on line 178
+[21-Aug-2017 04:13:16 UTC] PHP Notice:  Use of undefined constant SERVER_URL - assumed 'SERVER_URL' in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml on line 164
+[21-Aug-2017 04:13:16 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml:178
+Stack trace:
+#0 {main}
+  thrown in /home/vemanian/public_html/sellatesla_api/application/modules/webservice/views/scripts/webservice/index.phtml on line 178
